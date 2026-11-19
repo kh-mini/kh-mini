@@ -1,3 +1,6 @@
+<img width="1069" height="1004" alt="image" src="https://github.com/user-attachments/assets/cb351756-150d-4f34-b557-60f7f2ac384e" />
+
+
 # kh-mini — React + Vite
 
 A React project conversion of the original `kh-mini.html` game.
